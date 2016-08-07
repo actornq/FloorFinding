@@ -12,6 +12,9 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
     @Override
+    adjkfa;lksjfalkjd;
+    a;djfas;ljfd;akjfd;lkad
+    dalksjf;askdljfa;ld
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
